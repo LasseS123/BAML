@@ -1,0 +1,11 @@
+# Virtuelle Umgebung (wähle den Namen, den du verwendest)
+venv/
+.venv/
+env/
+
+# Python Cache-Dateien
+__pycache__/
+*.pyc
+
+# Sensible Daten (z.B. API-Keys)
+.env
